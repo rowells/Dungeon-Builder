@@ -1,0 +1,26 @@
+As you will see once you start up the program, I decided to go with free camera control instead of making a movie.
+
+This has been very exciting for me as game design is a field in which I am fairly interested. That said, this has
+
+presented a lot of interesting challenges. I did not realize how time consuming designing a labyrinthian dungeon
+
+would take. Here is a list of things that still need to be done-
+
+
+1. There are still more walls, corridors, and hallways that I need to add. *CHECK*
+
+2. I would like to add more monster variants aside from the floating eyeball monster that I have. *CHECK*
+
+3. There will be more gems and warps.
+
+4. Transparency is not currently working but I am trying to implement it on the gems.
+
+5. There are a few normals that still need calculation on the brain monsters. *CHECK*
+
+6. Do you have any suggestions for what you would like to see? Am I headed on the right track? (Collision detection for walls. *CHECK*)
+
+7. Slow down movement speed
+
+8. Enable lights by default
+
+9. Enable fog

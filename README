@@ -1,0 +1,26 @@
+Welcome to my dungeon building program!
+
+In order to run the file. You must follow these steps-
+
+1. Make sure that you are using an ubuntuu linux environment.
+
+2. Extract to a location of your choosing.
+
+3. Using the terminal, navigate to the directory containing the makefile and the dungeonBuilder.c file.
+
+4. Type "make"
+
+5. Type ./dungeonBuilder.c
+
+6. Enjoy!
+
+
+The key commands are as follows.
+
+-Use the up, down, left, and right arrow keys to look and move.
+
+-Use the page up and page down keys to look up and down.
+
+-Press the 'P' key to change the fog type.
+
+
